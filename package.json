@@ -1,0 +1,10 @@
+{
+  "name": "middleman",
+  "version": "0.1.0",
+  "description": "The middle manager for your agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
