@@ -1,6 +1,6 @@
 {
   "name": "middleman",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "The middle manager for your agents",
   "main": "src/index.ts",
   "scripts": {
